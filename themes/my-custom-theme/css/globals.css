@@ -45,6 +45,10 @@ h2 {
   margin-top: 3rem;
 }
 
+.btn-no-border {
+  border: none !important;
+}
+
 .white-link {
   color: white !important;
   text-decoration: none !important;
@@ -209,7 +213,6 @@ hr {
   transition: background-color 0.3s, color 0.3s;
   border-radius: var(--rounded-border);
   font-weight: 700;
-  border: none !important;
 }
 
 .btn-sm {
