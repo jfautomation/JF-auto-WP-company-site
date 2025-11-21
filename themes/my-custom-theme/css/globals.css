@@ -45,6 +45,11 @@ h2 {
   margin-top: 3rem;
 }
 
+.white-link {
+  color: white !important;
+  text-decoration: none !important;
+}
+
 .small-text {
   font-size: 0.9rem;
 }
