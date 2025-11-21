@@ -41,6 +41,10 @@ h2 {
   font-weight: bold;
 }
 
+.margin-top-small {
+  margin-top: 1rem;
+}
+
 .small-text {
   font-size: 0.9rem;
 }
