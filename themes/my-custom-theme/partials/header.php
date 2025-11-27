@@ -175,6 +175,7 @@ $header_class = $is_transparent_page ? 'nav-transparent' : 'nav-white';
 <header id="site-header" class="site-header <?php echo $header_class; ?>">
    <nav class="fixed-top navbar navbar-expand-lg text-light d-flex flex-column" id="main-navbar"> 
      <div class="container top-nav d-flex justify-content-end">
+    
                 <div class="d-flex gap-3 align-items-center text-light">
                     <a href="tel:9052680778">
                         <i class="text-light header-social-icon bi bi-telephone-fill"></i>
